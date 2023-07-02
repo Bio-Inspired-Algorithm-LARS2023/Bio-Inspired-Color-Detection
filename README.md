@@ -8,7 +8,7 @@ This repository contains three Python scripts associated to our bio-inspired col
 
 2. **Chrominance and Luminance Separation (`chrom_lum_separator.py`):** This script takes a video file as input and separates it into its red and blue chrominance and luminance components. The separated components are saved as individual video files.
 
-3. **Video Truncation (`video_truncator.py`):** This script takes a video file, start and end times as input and truncates the video to this specified range. The truncated video is saved as a new video file.
+3. **Video Truncation (`video_truncator.py`):** This script takes a video file, start and end times as inputs and truncates the video to this specified range. The truncated video is saved as a new video file.
 
 ## File paths - Corrections
 
