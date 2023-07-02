@@ -4,7 +4,7 @@ This repository contains three Python scripts associated to our bio-inspired col
 
 ## Overview
 
-1. **Video Processing (`video_processing.py`):** This script implements our algorithm.
+1. **Video Processing (`video_processing.py`):** This script contains our algorithm implementation.
 
 2. **Chrominance and Luminance Separation (`chrom_lum_separator.py`):** This script takes a video file as input and separates it into its red and blue chrominance and luminance components. The separated components are saved as individual video files.
 
