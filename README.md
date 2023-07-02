@@ -18,12 +18,14 @@ Replace the following paths with the locations of your own video files:
 
 - For video_processing.py:
   - Line 13: `output_path = "color_filtered.mp4"`
+  - 
   - Line 62: `video_path = "your-video-path.mp4"`
 
 - For chrom_lum_separator.py:
   - Line 13: `red_output_path = "crominance_red_output.mp4"`
   - Line 14: `blue_output_path = "crominance_blue_output.mp4"`
   - Line 15: `luminance_output_path = "luminance_output.mp4"`
+  - 
   - Line 78: `video_path = "your-video-path.mp4"`
 
 - For video_truncator.py:
