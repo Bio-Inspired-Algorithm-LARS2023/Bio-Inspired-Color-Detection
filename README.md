@@ -12,7 +12,9 @@ This repository contains three Python scripts associated to our bio-inspired col
 
 ## File paths - Corrections
 
-Before running the scripts, you need to specify the paths to your video files and where you want the output images to be saved. Replace the following paths with the locations of your own video files.:
+Before running the scripts, you need to specify the paths to your video files and where you want the output images to be saved. 
+
+Replace the following paths with the locations of your own video files.:
 
 - For video_processing.py:
   - Line 13: `output_path = "color_filtered.mp4"`
