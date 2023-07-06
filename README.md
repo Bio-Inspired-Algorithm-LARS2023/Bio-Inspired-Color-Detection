@@ -1,6 +1,6 @@
 # Bio-Inspired Color Detection Algorithm
 
-This repository contains three Python scripts associated to our bio-inspired color detection algorithm.
+This repository contains three Python scripts associated to our bio-inspired color detection algorithm and a sample video showcasing color patterns under varying light conditions.
 
 ## Overview
 
